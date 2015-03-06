@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH303: Educational Psychology"
+course_description: "An examination of education theory and the practicalities of classroom life, designed to teach how to structure educational systems in order to meet the mental and emotional needs of students."
+next: ../../../
+previous: ../Unit08
+---
 **Unit 9: The Psychology of the Teacher** <span id="9"></span> 
 
 *In this final unit, we will explore how teachers cope with their roles

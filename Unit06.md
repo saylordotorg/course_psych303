@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH303: Educational Psychology"
+course_description: "An examination of education theory and the practicalities of classroom life, designed to teach how to structure educational systems in order to meet the mental and emotional needs of students."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Encouraging Complex Thinking** <span id="6"></span> 
 
 *Back in Unit 1, you were introduced to Bloom’s Taxonomy of cognitive

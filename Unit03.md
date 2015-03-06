@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH303: Educational Psychology"
+course_description: "An examination of education theory and the practicalities of classroom life, designed to teach how to structure educational systems in order to meet the mental and emotional needs of students."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Understanding Diversity** <span id="3"></span> 
 
 *This unit will explore the ways in which educators acknowledge and

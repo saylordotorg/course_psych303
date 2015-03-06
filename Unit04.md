@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH303: Educational Psychology"
+course_description: "An examination of education theory and the practicalities of classroom life, designed to teach how to structure educational systems in order to meet the mental and emotional needs of students."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Student Motivation** <span id="4"></span> 
 
 *This unit will explore the ways that educators motivate their students

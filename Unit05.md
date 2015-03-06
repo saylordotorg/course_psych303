@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PSYCH303: Educational Psychology"
+course_description: "An examination of education theory and the practicalities of classroom life, designed to teach how to structure educational systems in order to meet the mental and emotional needs of students."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Classroom Management and Communication** <span id="5"></span> 
 
 *This unit will explore the ways that educators manage learning
