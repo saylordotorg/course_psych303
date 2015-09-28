@@ -157,3 +157,4 @@ set goals for yourself.
 - [Unit 7](https://legacy.saylor.org/psych303/Unit07/)
 - [Unit 8](https://legacy.saylor.org/psych303/Unit08/)
 - [Unit 9](https://legacy.saylor.org/psych303/Unit09/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH303/PSYCH303-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/PSYCH/PSYCH303/PSYCH303-FinalExam-Answers.html)
