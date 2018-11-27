@@ -100,7 +100,7 @@ Upon successful completion of this unit, you will be able to
     Link: The Global Text Project: Rosemary Sutton & Kelvin
     Seifert’s *Educational Psychology 2<sup>nd</sup>Edition:* [“Chapter
     10: Planning
-    Instruction”](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Instruction”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -113,7 +113,7 @@ Upon successful completion of this unit, you will be able to
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 **7.1.2 Using State and Local Guidelines and Standards** <span
 id="7.1.2"></span> 
@@ -175,14 +175,14 @@ id="7.3"></span> 
     Assessment”**
 
     Link: The Saylor Foundation's [“PSYCH303: Unit 7
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH303-Unit-7-Assessment.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-7-Assessment.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment without any
     help from books, notes, or videos. When you are done (or if you are
     stuck), check your work against The Saylor Foundation's [“PSYCH303:
     Unit 7 Assessment Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH303-Unit-7-Assessment-Rubric.pdf)
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-7-Assessment-Rubric.pdf)
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use
