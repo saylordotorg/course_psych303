@@ -81,7 +81,7 @@ Upon successful completion of this unit, you will be able to
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> Edition:* [“Chapter 11:
     Teacher-Made Assessment
-    Strategies”](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Strategies”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -102,7 +102,7 @@ Upon successful completion of this unit, you will be able to
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 -   **Web Media: YouTube: Dr. Andrew Johnson’s “Assessment Overview”**
 
@@ -194,7 +194,7 @@ id="8.2"></span> 
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology, 2<sup>nd</sup> Edition:* [“Appendix C:
     Action
-    Research”](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Research”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -211,7 +211,7 @@ id="8.2"></span> 
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 **8.5 Published Assessments** <span id="8.5"></span> 
 -   **Reading: The Global Text Project: Rosemary Sutton & Kelvin
@@ -221,7 +221,7 @@ id="8.2"></span> 
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology, 2<sup>nd</sup> Edition:* [“Chapter 12:
     Standardized and Other Formal
-    Assessments”](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Assessments”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -243,7 +243,7 @@ id="8.2"></span> 
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 -   **Web Media: YouTube: Dr. Andrew Johnson’s “IQ Tests”**
 
@@ -287,14 +287,14 @@ id="8.6"></span> 
     Assessment”**
 
     Link: The Saylor Foundation's [“PSYCH303: Unit 8
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH303-Unit-8-Assessment.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-8-Assessment.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment without any
     help from books, notes, or videos. When you are done (or if you are
     stuck), check your work against The Saylor Foundation's [“PSYCH303:
     Unit 8 Assessment
-    Rubric.”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH303-Unit-8-Assessment-Rubric.pdf)
+    Rubric.”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-8-Assessment-Rubric.pdf)
     (PDF). Be sure to think about the rules of effective assessment
     (RSVP) when constructing your assessments.  
         

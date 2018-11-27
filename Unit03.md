@@ -75,7 +75,7 @@ Upon successful completion of this unit, you will be able to
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> Edition:* [“Chapter 4:
     Student
-    Diversity”](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Diversity”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -89,7 +89,7 @@ Upon successful completion of this unit, you will be able to
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original form
-    [here](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 **3.2 Diversity in Groups and Populations** <span id="3.2"></span> 
 **3.2.1 Multiple Intelligences** <span id="3.2.1"></span> 
@@ -309,7 +309,7 @@ Upon successful completion of this unit, you will be able to
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> Edition:* [“Chapter 5:
     Students with Special Educational
-    Needs”](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Needs”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -323,7 +323,7 @@ Upon successful completion of this unit, you will be able to
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](http://www.saylor.org/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 **3.3.1 Background and History of Accommodations** <span
 id="3.3.1"></span> 
@@ -393,14 +393,14 @@ id="3.4"></span> 
     Assessment”**
 
     Link: The Saylor Foundation's [“PSYCH303: Unit 3
-    Assessment”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH303-Unit-3-Assessment.pdf)
+    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-3-Assessment.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment without any
     help from books, notes, or videos. When you are done (or if you are
     stuck), check your work against The Saylor Foundation's [“PSYCH303:
     Unit 3 Assessment Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2012/08/PSYCH303-Unit-3-Assessment-Answer-Key.pdf)
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-3-Assessment-Answer-Key.pdf)
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use
