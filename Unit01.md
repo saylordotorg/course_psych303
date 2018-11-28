@@ -104,7 +104,7 @@ id="1.1"></span> 
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> Edition:* [“Chapter 1: The
     Changing Teaching Profession and
-    You”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    You”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Go to the Table of Contents beginning on page 4 and
@@ -117,7 +117,7 @@ id="1.1"></span> 
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be found in its
     original form
-    [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 **1.2 Teacher Views of Learning** <span id="1.2"></span> 
 -   **Reading: The Global Text Project: Rosemary Sutton & Kelvin
@@ -127,7 +127,7 @@ id="1.1"></span> 
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> ed.:* [“Chapter 2: The
     Learning
-    Process”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Process”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Go to the Table of Contents beginning on page 4 and
@@ -141,7 +141,7 @@ id="1.1"></span> 
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be found in its
     original
-    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 -   **Web Media: YouTube: Dr. Andrew Johnson’s “The Teacher”**
 
@@ -240,7 +240,7 @@ id="1.3.1.1"></span> 
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> ed.:* [“Chapter 2: The
     Learning
-    Process”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Process”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Go to the Table of Contents beginning on page 4 and
@@ -432,14 +432,14 @@ id="1.3.6"></span> 
     Assessment”**
 
     Link: The Saylor Foundation's [“PSYCH303: Unit 1
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-1-Assessment.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/PSYCH303-Unit-1-Assessment.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment without any
     help from books, notes, or videos. When you are done (or if you are
     stuck), check your work against The Saylor Foundation's [“PSYCH303:
     Unit 1 Assessment Answer
-    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-1-Assessment-Answer-Key.pdf)
+    Key.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/PSYCH303-Unit-1-Assessment-Answer-Key.pdf)
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use

@@ -108,7 +108,7 @@ Upon successful completion of this unit, you will be able to
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology, 2<sup>nd</sup> Edition:* [“Chapter 7:
     Classroom Management and the Learning
-    Environment”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Environment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -123,7 +123,7 @@ Upon successful completion of this unit, you will be able to
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 -   **Web Media: YouTube: Dr. Andrew Johnson’s “Classroom Management”**
 
@@ -195,7 +195,7 @@ Upon successful completion of this unit, you will be able to
     Link: The Global Text Project: Rosemary Sutton & Kelvin Seifert’s
     *Educational Psychology 2<sup>nd</sup> Edition:* [“Chapter 8: The
     Nature of Classroom
-    Communication”](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf)
+    Communication”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf)
     (PDF)  
         
      Instructions: Please click on the link, scroll down to the Table of
@@ -220,7 +220,7 @@ Upon successful completion of this unit, you will be able to
     License](http://creativecommons.org/licenses/by/3.0/). It is
     attributed to the Global Text Project and can be viewed in its
     original
-    form [here](https://resources.saylor.org/archived/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
+    form [here](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/06/Educational-Psychology.pdf). 
 
 **The Saylor Foundation's “PSYCH303: Unit 5 Assessment”** <span
 id="5.3"></span> 
@@ -228,14 +228,14 @@ id="5.3"></span> 
     Assessment”**
 
     Link: The Saylor Foundation's [“PSYCH303: Unit 5
-    Assessment”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-5-Assessment.pdf)
+    Assessment”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/PSYCH303-Unit-5-Assessment.pdf)
     (PDF)  
       
      Instructions: Please complete the linked assessment without any
     help from books, notes, or videos. When you are done (or if you are
     stuck), check your work against The Saylor Foundation's [“PSYCH303:
     Unit 5 Assessment Answer
-    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2012/08/PSYCH303-Unit-5-Assessment-Answer-Key1.pdf)
+    Key.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/08/PSYCH303-Unit-5-Assessment-Answer-Key1.pdf)
     (PDF)  
         
      Terms of Use: Please respect the copyright and terms of use
